@@ -1,0 +1,8 @@
+[workspace]
+
+members = [
+    "terminus-rust-coord",
+    "terminus-rust-geotiff",
+    "terminus-rust-math",
+]
+

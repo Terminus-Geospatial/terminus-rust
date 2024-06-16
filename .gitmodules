@@ -1,0 +1,9 @@
+[submodule "terminus-rust-math"]
+	path = terminus-rust-math
+	url = git@github.com:Terminus-Geospatial/terminus-rust-math.git
+[submodule "terminus-rust-geotiff"]
+	path = terminus-rust-geotiff
+	url = git@github.com:Terminus-Geospatial/terminus-rust-geotiff.git
+[submodule "terminus-rust-coord"]
+	path = terminus-rust-coord
+	url = git@github.com:Terminus-Geospatial/terminus-rust-coord
