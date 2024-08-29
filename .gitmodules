@@ -7,3 +7,6 @@
 [submodule "terminus-rust-coord"]
 	path = terminus-rust-coord
 	url = git@github.com:Terminus-Geospatial/terminus-rust-coord
+[submodule "terminus-rust-image"]
+	path = terminus-rust-image
+	url = git@github.com:Terminus-Geospatial/terminus-rust-image.git
